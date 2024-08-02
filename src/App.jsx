@@ -2,9 +2,7 @@ import {useState} from "react";
 import MainHeader from "./components/MainHeader/MainHeader.jsx";
 import PostsList from "./components/PostsList/PostsList.jsx";
 
-const initialPosts = [{key:'Hendriksson Fiend_12312232', author: 'Hendriksson Fiend', content: 'Hello world.'}, {
-	key: 'Dirrection Diren_123223', author: 'Dirrection Diren', content: 'Hello world 2.'
-}]
+const initialPosts = []
 
 function App() {
 	const [modalIsVisible, setModalIsVisible] = useState(false)
