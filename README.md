@@ -39,7 +39,7 @@ The app's modular architecture promotes code reusability and maintainability. Ke
 
 ## Installation & Usage:
 
-1.  Clone this repository:  `git clone <repository-url>`
+1.  Clone this repository:  `git clone https://github.com/Kurabombei/react-skills-refresher.git`
 2.  Install dependencies:  `npm install` (or `yarn install`)
 3.  Start the development server: `npm run dev` (or `yarn dev`)
 4.  Open the app 
